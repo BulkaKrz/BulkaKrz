@@ -1,3 +1,5 @@
 tu umieszczam skrypty napisane podczas kursu wizualizacje z platformy UDEMY
 
 Interaktywne wizualizacje danych w języku Python - Plotly
+
+Testuje gita
